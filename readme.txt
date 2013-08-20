@@ -1,9 +1,5 @@
 Create a simple blog with CodeIgniter
 
-Written by Pisyek Kumar
-Email: pisyek@gmail.com
-Website: www.pisyek.com
-
 How-to:
 
 1. Create a database.
